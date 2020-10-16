@@ -8,13 +8,13 @@ They are compiled together and their results are stored in a excutable called ou
 output: 
     uses the compiled files of HiWord and Date to create the executable output file.
 
-HiWorld.o and Date.o
+HiWorld.o and Date.o:
     Compiles the two c++ files, also updating them if they were changed.
     
-Clean
+Clean:
     Removes all .o files and output file
     
-List
+List:
     List all .cpp and .h files.
 
 
