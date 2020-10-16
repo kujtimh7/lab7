@@ -1,10 +1,10 @@
 # lab7
 
-#ReadMe
+# ReadMe
 My makefile runs two C++ files in Hiworld.cpp and Date.cpp that have the same header message.h. 
 They are compiled together and their results are stored in a excutable called output.
 
-#Commands 
+# Commands 
 output: 
     uses the compiled files of HiWord and Date to create the executable output file.
 
